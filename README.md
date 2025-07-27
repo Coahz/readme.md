@@ -1,4 +1,5 @@
 # 🍔 Food Truck Ordering System – OOAD + GitHub Project
+Teerapat tasvorn
 
 ## 📌 บทนำ
 
